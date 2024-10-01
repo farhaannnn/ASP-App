@@ -59,7 +59,7 @@
                 </tr>
                 <tr>
                     <td class="auto-style2">
-                        <asp:Label ID="Label2" runat="server" Text="Number 2"></asp:Label>
+                        <asp:Label ID="Label2" runat="server" Text="Number 2" BorderStyle="Dashed"></asp:Label>
                     </td>
                     <td class="auto-style8">
                         <asp:TextBox ID="num2" runat="server" CssClass="auto-style3" OnTextChanged="TextBox2_TextChanged" TextMode="Number"></asp:TextBox>
